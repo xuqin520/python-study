@@ -1,0 +1,7 @@
+set={1,2,3,4}
+set.add('6')
+set.update('7','8')
+set.remove(1)
+x=set.pop()
+len(set)
+print(set,x,len(set))
